@@ -1,0 +1,88 @@
+/**
+//==============================================================================
+// Variables
+//==============================================================================
+*/
+
+//==============================================================================
+// Containers
+//==============================================================================
+
+$x-small: 480px;
+$small: 720px;
+$medium: 960px;
+$large: 1200px;
+
+//==============================================================================
+// Breakpoints
+//==============================================================================
+
+$mobile: $x-small;
+$tablet: $small;
+$desktop: $medium;
+$xl-desktop: $large;
+
+//==============================================================================
+// Global Colors
+//==============================================================================
+
+$background: #fff;
+$white: #fff;
+$black: #000;
+$grey: #646464;
+$primary-color: #001aff;
+$secondary-color: #ffc700;
+$link-color: $secondary-color;
+$link-hover-color: darken($link-color, 15%);
+$error: red;
+
+//==============================================================================
+// Typography
+//==============================================================================
+
+// Body
+$font-size: 1rem;
+$font-weight: 700;
+$font-color: $black;
+$font-family: "Inter", Arial, Helvetica, sans-serif;
+$line-height: 1.6;
+
+// Font Awesome
+$icon: "FontAwesome";
+
+// Headings
+$heading-font-weight: 700;
+$heading-font-color: $black;
+$heading-font-family: "Inter", Arial, Helvetica, sans-serif;
+$heading-line-height: 1.25;
+
+// Mobile heading font size
+$h1-mobile: 2rem;
+$h2-mobile: 1.625rem;
+$h3-mobile: 1.375rem;
+$h4-mobile: 1.2rem;
+$h5-mobile: 1rem;
+
+// Heading font size
+$h1: 3rem;
+$h2: 2.25rem;
+$h3: 1.75rem;
+$h4: 1.25rem;
+$h5: 1rem;
+
+//==============================================================================
+// Spacing
+//==============================================================================
+
+$padding: 1rem;
+$margins: 1.5rem;
+
+//==============================================================================
+// Borders
+//==============================================================================
+
+$border-width: 1px;
+$border-style: solid;
+$border-color: $grey;
+$border-radius: 0;
+$borders: $border-width $border-style $border-color;

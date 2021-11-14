@@ -1,0 +1,28 @@
+<section className="{stylesBanner.banner}">
+  <div className="{stylesBanner.containerHero}">
+    <div className="{stylesBanner.rowText}">
+      <div
+        className="{`${stylesBanner.mainText}"
+        ${stylesBanner.underlineBlue}`}
+      >
+        <h1>{h1Text},<br />Sandro Matter</h1>
+      </div>
+    </div>
+    <div className="{stylesBanner.rowImage}">
+      <div className="{stylesBanner.mainImage}">
+        <img
+          fadeIn="{false}"
+          loading="eager"
+          fluid="{data.placeholderImage.childImageSharp.fluid}"
+        />
+      </div>
+    </div>
+    <div className="{stylesBanner.scroll}">
+      <div className="{stylesBanner.languageBox}">
+        <a className="{stylesLayout.link}" href="/">de</a> |
+        <a className="{stylesLayout.link}" href="/en">en</a>
+      </div>
+      <span>scroll down</span>
+    </div>
+  </div>
+</section>
