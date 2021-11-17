@@ -23,7 +23,7 @@ email: hey@sandromatter.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Online Marketing Spezialist und Student an der Fachhochschule Graubünden.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sandromatter.ch`" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sandromatter.ch" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sandromatter
 github_username: sandromatter
 
