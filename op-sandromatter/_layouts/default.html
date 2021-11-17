@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'de' }}">
-
-<head>
+  <head>
     <!-- Head -->
     {% include head.html %}
-</head>
+  </head>
 
-<body>
-
-    <div class="grid__container">
-
-        <!-- Main content -->
-        <main role="main">
-
-            {{ content }}
-
-        </main>
-
-    </div>
-
+  <body>
+    {% include navigation.html %} {{content}} {% include
+    google_tag_manager_body.html %}
+  </body>
 </html>

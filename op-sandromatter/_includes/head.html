@@ -1,7 +1,13 @@
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{{ page.title }} - {{ site.title }}</title>
+{% include opengraph.html %}
+<title>{{ page.title }} | {{ site.title }}</title>
+<link
+  rel="shortcut icon"
+  type="image/png"
+  href="{{ '/assets/img/sandromatter-icon.png' | relative_url }}"
+/>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
@@ -10,3 +16,4 @@
 />
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 <script src="./assets/js/script.js"></script>
+{% include google_tag_manager_head.html %}

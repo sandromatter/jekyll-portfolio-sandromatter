@@ -1,26 +1,23 @@
-<section className="{stylesBanner.banner}">
-  <div className="{stylesBanner.containerHero}">
-    <div className="{stylesBanner.rowText}">
-      <div
-        className="{`${stylesBanner.mainText}"
-        ${stylesBanner.underlineBlue}`}
-      >
-        <h1>{h1Text},<br />Sandro Matter</h1>
-      </div>
+<section class="banner">
+  <div class="banner__container">
+    <div class="banner__row-text">
+      <h1 class="main-text">
+        {{ include.banner-h1-text }}<br /><span class="title--underline-blue"
+          >Sandro Matter</span
+        >
+      </h1>
     </div>
-    <div className="{stylesBanner.rowImage}">
-      <div className="{stylesBanner.mainImage}">
-        <img
-          fadeIn="{false}"
-          loading="eager"
-          fluid="{data.placeholderImage.childImageSharp.fluid}"
-        />
-      </div>
+    <div class="banner__row-image">
+      <img
+        class="main-image"
+        src="{{ '/assets/img/sandromatter-portrait.png' | relative_url }}"
+        alt="Portrait Sandro Matter"
+      />
     </div>
-    <div className="{stylesBanner.scroll}">
-      <div className="{stylesBanner.languageBox}">
-        <a className="{stylesLayout.link}" href="/">de</a> |
-        <a className="{stylesLayout.link}" href="/en">en</a>
+    <div class="note__scroll">
+      <div class="note__language">
+        <a class="link" href="/">de</a> |
+        <a class="link" href="/en">en</a>
       </div>
       <span>scroll down</span>
     </div>

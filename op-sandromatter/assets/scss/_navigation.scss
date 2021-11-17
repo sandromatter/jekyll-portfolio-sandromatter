@@ -1,0 +1,56 @@
+/**
+//==============================================================================
+// Header styling
+//==============================================================================
+*/
+
+.header {
+  &__wrapper {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 4px solid blue;
+
+    /* Shadow Nav */
+    -webkit-box-shadow: 2px 9px 17px 0px rgba(110, 110, 110, 0.25);
+    -moz-box-shadow: 2px 9px 17px 0px rgba(17, 17, 17, 0.25);
+    box-shadow: 2px 9px 17px 0px rgba(110, 110, 110, 0.25);
+
+    @include large-breakpoint {
+      height: 65px;
+      justify-content: left;
+    }
+  }
+
+  &__link {
+    text-decoration: none;
+    color: $black;
+
+    &:focus {
+      text-decoration: none;
+      color: $grey;
+    }
+  }
+
+  &__logo {
+    font-size: 1.6rem;
+    margin: 0;
+    padding: 0 50px;
+  }
+
+  &__full-text {
+    display: none;
+  }
+
+  @include large-breakpoint {
+    &__short-text {
+      display: none;
+    }
+
+    &__full-text {
+      display: inline-block;
+    }
+  }
+}

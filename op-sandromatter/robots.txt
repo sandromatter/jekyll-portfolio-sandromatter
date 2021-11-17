@@ -1,0 +1,9 @@
+---
+layout: none
+---
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /cv
+Sitemap: {{ site.url }}/sitemap.xml

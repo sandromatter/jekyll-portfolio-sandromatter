@@ -1,6 +1,8 @@
 /**
- * Helpers
- */
+//==============================================================================
+// Helpers
+//==============================================================================
+*/
 
 // Classic clearfix
 .clearfix::before,
@@ -30,4 +32,14 @@
 
 .invisible {
   visibility: hidden;
+}
+
+// Spacing
+
+.margin--2 {
+  margin-bottom: 2rem 0;
+}
+
+.padding--2 {
+  padding: 2rem 0;
 }

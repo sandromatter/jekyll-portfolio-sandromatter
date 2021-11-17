@@ -1,0 +1,61 @@
+/**
+//==============================================================================
+// Layout
+//==============================================================================
+*/
+
+html,
+body {
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+div[role="group"][tabindex] {
+  height: 100%;
+}
+
+.content__wrapper--600 {
+  max-width: 600px;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 1rem;
+
+  @include medium-breakpoint {
+    padding: 1.5rem;
+  }
+
+  @include large-breakpoint {
+    padding: 2rem;
+  }
+}
+
+.content__wrapper--900 {
+  max-width: 900px;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 1rem;
+
+  @include medium-breakpoint {
+    padding: 1.5rem;
+  }
+
+  @include large-breakpoint {
+    padding: 2rem;
+  }
+}
+
+.content__wrapper--full {
+  max-width: 100%;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 1rem;
+
+  @include medium-breakpoint {
+    padding: 1.5rem;
+  }
+
+  @include large-breakpoint {
+    padding: 2rem;
+  }
+}
