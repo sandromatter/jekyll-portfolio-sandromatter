@@ -32,8 +32,8 @@ $black: #000;
 $grey: #646464;
 $primary-color: #001aff;
 $secondary-color: #ffc700;
-$link-color: $secondary-color;
-$link-hover-color: darken($link-color, 15%);
+$link-hover: $grey;
+$link-focus: $secondary-color;
 $error: red;
 
 //==============================================================================

@@ -1,0 +1,83 @@
+/**
+//==============================================================================
+// CV Layout
+//==============================================================================
+*/
+
+// Global, nav and masthead
+html {
+  scroll-behavior: smooth;
+}
+
+// List style
+.section__nav {
+  ul.separator {
+    width: 100%;
+    list-style: none;
+
+    li {
+      padding: 0.5em 0;
+      border-bottom: $borders;
+      line-height: 250%;
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      &.active > a {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+    display: block;
+    transition: all 50ms ease-in-out;
+
+    &:hover,
+    &:focus {
+      color: $link-hover;
+    }
+  }
+}
+
+// Header
+.header__wrapper {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__title {
+  font-size: 4rem;
+
+  @include medium-breakpoint {
+    font-size: 4.5rem;
+  }
+
+  @include large-breakpoint {
+    font-size: 6rem;
+  }
+}
+
+// // Layout
+// .note {
+//   position: fixed;
+//   left: 75%;
+//   bottom: 8%;
+//   font-size: 0.875rem;
+//   padding: 1.5rem;
+//   letter-spacing: 1.5px;
+
+//   @include medium-breakpoint {
+//     bottom: 0;
+//   }
+
+//   span {
+//     margin: -1rem;
+//     padding: 0.5rem;
+//     background-color: $background;
+//   }
+// }
