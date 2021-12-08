@@ -44,7 +44,7 @@ function toggleSidebar() {
 const swiper = new Swiper(".swiper", {
   loop: true,
   slidesPerView: "auto",
-  centeredSlides: true,
+  spaceBetween: 20,
   keyboard: {
     enabled: true,
   },

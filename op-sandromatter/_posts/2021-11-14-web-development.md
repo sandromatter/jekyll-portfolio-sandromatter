@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Analog stuff"
-subtitle: "No power required"
+title: "Web Development"
+subtitle: "My personal website – a sandbox for web development."
 image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
-category: design
-tags: jekyll design
-permalink: /analog-stuff
+category: web projects
+tags: jekyll web design
+permalink: /web-development
 ---
 
 <div class="content__wrapper--swiper">
@@ -15,12 +15,7 @@ permalink: /analog-stuff
         <!-- Additional required wrapper -->
         <div class="swiper-wrapper">
             <!-- Slides -->
-            <div class="swiper-slide"><img src="{{ '/assets/img/01_Bleistifte.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/02_Mandala.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/work_personal-webpage.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/07_Siebdruck.jpg' | relative_url }}" /></div>
             <div class="swiper-slide"><img src="https://source.unsplash.com/WLUHO9A_xik/1600x900" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/03_Ziffernblatt.jpg' | relative_url }}" /></div>
             <div class="swiper-slide"><img src="https://source.unsplash.com/category/web" /></div>
         </div>
         <!-- If we need navigation buttons -->

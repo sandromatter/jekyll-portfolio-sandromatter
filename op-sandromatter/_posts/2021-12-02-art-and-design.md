@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Personal website"
-subtitle: "My sandbox for web development"
+title: "Art & Design"
+subtitle: "It's getting artsy."
 image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
-category: web projects
-tags: jekyll web design
-permalink: /personal-website
+category: design
+tags: jekyll design
+permalink: /art-and-design
 ---
 
 <div class="content__wrapper--swiper">
@@ -15,10 +15,11 @@ permalink: /personal-website
         <!-- Additional required wrapper -->
         <div class="swiper-wrapper">
             <!-- Slides -->
-            <div class="swiper-slide"><img src="{{ '/assets/img/work_personal-webpage.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/siebdruck.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="https://source.unsplash.com/WLUHO9A_xik/1600x900" /></div>
-            <div class="swiper-slide"><img src="https://source.unsplash.com/category/web" /></div>
+            <div class="swiper-slide"><img src="{{ '/assets/img/01_Bleistifte.jpg' | relative_url }}" /></div>
+            <div class="swiper-slide"><img src="{{ '/assets/img/02_Mandala.jpg' | relative_url }}" /></div>
+            <div class="swiper-slide"><img src="{{ '/assets/img/03_Ziffernblatt.jpg' | relative_url }}" /></div>
+            <div class="swiper-slide"><img src="{{ '/assets/img/06_Produktfotografie.jpg' | relative_url }}" /></div>
+            <div class="swiper-slide"><img src="{{ '/assets/img/07_Siebdruck.jpg' | relative_url }}" /></div>
         </div>
         <!-- If we need navigation buttons -->
         <div class="note__swiper">
@@ -42,5 +43,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </h2>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 
 </div>

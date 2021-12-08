@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Data science project"
-subtitle: "Scraping the web"
+title: "Data Science & Programming"
+subtitle: "Scraping and analyzing the web."
 image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
 category: web projects
 tags: jekyll web development
-permalink: /data-science-project
+permalink: /data-science-and-programming
 ---
 
 <div class="content__wrapper--swiper">
@@ -15,8 +15,6 @@ permalink: /data-science-project
         <!-- Additional required wrapper -->
         <div class="swiper-wrapper">
             <!-- Slides -->
-            <div class="swiper-slide"><img src="{{ '/assets/img/work_personal-webpage.jpg' | relative_url }}" /></div>
-            <div class="swiper-slide"><img src="{{ '/assets/img/siebdruck.jpg' | relative_url }}" /></div>
             <div class="swiper-slide"><img src="https://source.unsplash.com/WLUHO9A_xik/1600x900" /></div>
             <div class="swiper-slide"><img src="https://source.unsplash.com/category/web" /></div>
         </div>

@@ -72,21 +72,16 @@ title: Résumé.
           <h2 class="margin--2">
             <span class="title--underline-yellow">Work</span>
           </h2>
-        </div>
-        <h3 class="content__wrapper--900">Web development</h3>
-        <div class="content__wrapper--full">
           <ul>
             {% for post in site.posts %}
             <li>
+              <!-- <img src="{{ post.image }}" alt="{{ post.title }}" /> -->
               <a href="{{ post.url }}">{{ post.title }}</a>
+              <p>{{ post.subtitle }}</p>
             </li>
             {% endfor %}
           </ul>
         </div>
-        <h3 class="content__wrapper--900">Photography</h3>
-        <div class="content__wrapper--full"></div>
-        <h3 class="content__wrapper--900">Design</h3>
-        <div class="content__wrapper--full"></div>
       </section>
     </article>
   </main>

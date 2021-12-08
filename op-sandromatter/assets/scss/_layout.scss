@@ -64,7 +64,7 @@ div[role="group"][tabindex] {
   height: 60vh;
   max-width: 100%;
   box-sizing: content-box;
-  margin: 0 auto;
+  margin-bottom: 1rem;
   padding: 1rem 0 1rem 1rem;
 
   @include medium-breakpoint {
