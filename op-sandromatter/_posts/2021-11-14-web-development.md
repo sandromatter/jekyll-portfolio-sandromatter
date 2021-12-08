@@ -6,7 +6,7 @@ image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
 category: web projects
 tags: jekyll web design
-permalink: /web-development
+permalink: /cv/web-development
 ---
 
 <div class="content__wrapper--swiper">

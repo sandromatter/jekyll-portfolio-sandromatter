@@ -6,7 +6,7 @@ image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
 category: web projects
 tags: jekyll web development
-permalink: /data-science-and-programming
+permalink: /cv/data-science-and-programming
 ---
 
 <div class="content__wrapper--swiper">

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Photo- and Videography"
+title: "Photo- & Videography"
 subtitle: "Printed and personal works."
 image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
 category: photo- and video projects
 tags: photography videography
-permalink: /photo-and-videography
+permalink: /cv/photo-and-videography
 ---
 
 <div class="content__wrapper--swiper">

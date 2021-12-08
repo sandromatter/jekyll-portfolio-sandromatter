@@ -6,7 +6,7 @@ image: ./assets/img/og-sandromatter-profile.jpg
 date: 2021-11-14 16:18:20 +0100
 category: design
 tags: jekyll design
-permalink: /art-and-design
+permalink: /cv/art-and-design
 ---
 
 <div class="content__wrapper--swiper">
