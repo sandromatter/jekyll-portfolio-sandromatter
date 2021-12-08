@@ -53,14 +53,19 @@ google_tag_manager: GTM-NH6W6C2
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Build settings
+markdown: kramdown
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules
+  - .DS_Store
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
