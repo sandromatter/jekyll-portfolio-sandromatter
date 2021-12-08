@@ -4,6 +4,13 @@ layout: default
 
 <!-- Main content -->
 <main role="main">
-  <div class="content__header content__wrapper--600">{{post.title}}</div>
-  <article class="content__wrapper--600">{{ content }}</article>
+  <article>
+    <div class="post-header__wrapper">
+      <div>
+        <h1 class="post-header__title">{{ page.title }}</h1>
+        <p class="post-header__lead">{{ page.subtitle }}</p>
+      </div>
+    </div>
+    {{ content }}
+  </article>
 </main>

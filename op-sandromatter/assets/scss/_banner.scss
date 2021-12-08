@@ -91,21 +91,3 @@
     }
   }
 }
-
-.note {
-  &__scroll {
-    font-size: 0.875rem;
-    padding: 1.5rem;
-    letter-spacing: 1.5px;
-    position: absolute;
-    bottom: 8%;
-
-    @include medium-breakpoint {
-      bottom: 0;
-    }
-  }
-
-  &__language {
-    height: 25px;
-  }
-}

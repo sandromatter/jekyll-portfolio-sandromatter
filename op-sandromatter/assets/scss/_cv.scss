@@ -1,6 +1,6 @@
 /**
 //==============================================================================
-// CV Layout
+// CV layout
 //==============================================================================
 */
 
@@ -9,11 +9,32 @@ html {
   scroll-behavior: smooth;
 }
 
+// CV Header
+.cv-header__wrapper {
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cv-header__title {
+  font-size: 4rem;
+
+  @include medium-breakpoint {
+    font-size: 4.5rem;
+  }
+
+  @include large-breakpoint {
+    font-size: 6rem;
+  }
+}
+
 // List style
 .section__nav {
   ul.separator {
     width: 100%;
     list-style: none;
+    padding: 0 40px;
 
     li {
       padding: 0.5em 0;
@@ -42,42 +63,24 @@ html {
   }
 }
 
-// Header
-.header__wrapper {
-  min-height: 80vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.header__title {
-  font-size: 4rem;
+#cv-sidebar {
+  position: absolute;
+  padding-top: 60px;
+  max-width: 80%;
+  width: 300px;
+  height: 100%;
+  top: 0;
+  left: -300px;
+  background: $background;
+  transition: 0.4s;
 
   @include medium-breakpoint {
-    font-size: 4.5rem;
-  }
-
-  @include large-breakpoint {
-    font-size: 6rem;
+    max-width: 400px;
+    left: -400px;
   }
 }
 
-// // Layout
-// .note {
-//   position: fixed;
-//   left: 75%;
-//   bottom: 8%;
-//   font-size: 0.875rem;
-//   padding: 1.5rem;
-//   letter-spacing: 1.5px;
-
-//   @include medium-breakpoint {
-//     bottom: 0;
-//   }
-
-//   span {
-//     margin: -1rem;
-//     padding: 0.5rem;
-//     background-color: $background;
-//   }
-// }
+#cv-sidebar.active {
+  left: 0;
+  z-index: 500;
+}

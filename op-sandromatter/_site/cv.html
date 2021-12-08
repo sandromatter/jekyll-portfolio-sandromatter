@@ -22,6 +22,7 @@
   
 
 <title>Résumé. | sandromatter.ch</title>
+<!-- Links -->
 <link
   rel="shortcut icon"
   type="image/png"
@@ -30,11 +31,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
-  href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap"
   rel="stylesheet"
 />
 <link rel="stylesheet" href="/assets/css/style.css" />
-<script src="./assets/js/script.js"></script>
 <!-- Google Tag Manager -->
 <script>
   (function (w, d, s, l, i) {
@@ -65,32 +65,34 @@
   </h1>
 </header>
  <!-- Navigation -->
-<div class="cv__wrapper">
-  <input id="slide-sidebar" type="checkbox" role="button" />
-  <label class="note" for="slide-sidebar"
-    ><span><a>close</a></span></label
-  >
-  <aside class="cv__aside">
-    <nav class="section__nav">
-      <ul class="separator">
-        <li><a href="#introduction">Short introduction</a></li>
-        <li><a href="#background">My background</a></li>
-        <li><a href="#work">Work</a></li>
-      </ul>
-    </nav>
-  </aside>
+<aside class="cv__aside">
+  <nav class="section__nav" id="cv-sidebar">
+    <ul class="separator">
+      <li><a href="#introduction">Short introduction</a></li>
+      <li><a href="#background">My background</a></li>
+      <li><a href="#work">Work</a></li>
+    </ul>
+  </nav>
+  <div class="note__sidebar">
+    <a onclick="toggleSidebar()" id="note--text">open</a>
+  </div>
+</aside>
 
+
+<div class="cv__wrapper">
   <!-- Main content -->
   <main role="main" class="cv__main">
     <article>
-      <section class="content__wrapper--full header__wrapper">
-        <h2 class="header__title">
+      <section class="content__wrapper--full cv-header__wrapper">
+        <h2 class="cv-header__title">
           Hi, I'm Sandro Matter.<br />
           Nice to meet you!
         </h2>
       </section>
       <section class="content__wrapper--600 introduction" id="introduction">
-        <h2>Short introduction</h2>
+        <h2 class="margin--2">
+          <span class="title--underline-yellow">Short introduction</span>
+        </h2>
         <p>
           I am a multi-talented person and have been working in various
           marketing agencies for almost five years, besides riding my mountain
@@ -117,28 +119,52 @@
         </p>
       </section>
       <section class="content__wrapper--600 background" id="background">
-        <h2>My background</h2>
-        After my obligatory education, I completed an apprenticeship as a
-        designer of digital and print media at ZT Medien AG, working with tools
-        such as the Adobe suite in the prepress departement. Subsequently I
-        switched from the print departement to the digital agency of the media
-        company, #ztplus. In these two years, I planned and realized online
-        marketing campaigns, assisted in film productions, implemented web
-        projects, organized photo shootings and consulted for the introduction
-        of a new editorial system. In 2019, I started a part-time bachelor
-        programme “Digital Business Management” at the University of Applied
-        Sciences of the Grisons, which I expect to complete in summer 2022.
-        Besides, I work part-time as an online marketing specialist at the
-        advertising agency Stutz Kommunikation and freelance at the agency ADi
-        AG.
+        <h2 class="margin--2">
+          <span class="title--underline-yellow">My background</span>
+        </h2>
+        <p>
+          After my obligatory education, I completed an apprenticeship as a
+          designer of digital and print media at ZT Medien AG, working with
+          tools such as the Adobe suite in the prepress departement.
+          Subsequently I switched from the print departement to the digital
+          agency of the media company, #ztplus. In these two years, I planned
+          and realized online marketing campaigns, assisted in film productions,
+          implemented web projects, organized photo shootings and consulted for
+          the introduction of a new editorial system. In 2019, I started a
+          part-time bachelor programme “Digital Business Management” at the
+          University of Applied Sciences of the Grisons, which I expect to
+          complete in summer 2022. Besides, I work part-time as an online
+          marketing specialist at the advertising agency Stutz Kommunikation and
+          freelance at the agency ADi AG.
+        </p>
       </section>
       <section class="work" id="work">
-        <h2 class="content__wrapper--600">Work</h2>
-        <h3 class="content__wrapper--600">Web development</h3>
+        <div class="content__wrapper--600">
+          <h2 class="margin--2">
+            <span class="title--underline-yellow">Work</span>
+          </h2>
+        </div>
+        <h3 class="content__wrapper--900">Web development</h3>
+        <div class="content__wrapper--full">
+          <ul>
+            
+            <li>
+              <a href="/analog-stuff">Analog stuff</a>
+            </li>
+            
+            <li>
+              <a href="/data-science-project">Data science project</a>
+            </li>
+            
+            <li>
+              <a href="/personal-website">Personal website</a>
+            </li>
+            
+          </ul>
+        </div>
+        <h3 class="content__wrapper--900">Photography</h3>
         <div class="content__wrapper--full"></div>
-        <h3 class="content__wrapper--600">Photography</h3>
-        <div class="content__wrapper--full"></div>
-        <h3 class="content__wrapper--600">Design</h3>
+        <h3 class="content__wrapper--900">Design</h3>
         <div class="content__wrapper--full"></div>
       </section>
     </article>
@@ -155,6 +181,10 @@
   ></iframe
 ></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<!-- Scripts -->
+<script src="/assets/js/swiper-bundle.min.js"></script>
+<script src="/assets/js/script.js"></script>
 
   </body>
 </html>

@@ -61,3 +61,68 @@ span.title {
   flex-wrap: wrap;
   gap: 0 1rem;
 }
+
+.img--responsive {
+  width: 100vw;
+  height: auto;
+}
+
+.note {
+  &__scroll {
+    font-size: 0.875rem;
+    font-weight: $heading-font-weight;
+    padding: 1.5rem;
+    letter-spacing: 1.5px;
+    position: absolute;
+    bottom: 8%;
+
+    @include medium-breakpoint {
+      bottom: 0;
+    }
+  }
+
+  &__language {
+    height: 25px;
+
+    span {
+      padding: 0 0.25rem;
+      text-align: center;
+    }
+  }
+
+  &__sidebar {
+    font-size: 0.875rem;
+    font-weight: $heading-font-weight;
+    position: fixed;
+    bottom: 8%;
+    margin: 1.25rem;
+    padding: 0.25rem;
+    background-color: $background;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    z-index: 600;
+
+    @include medium-breakpoint {
+      bottom: 0;
+    }
+
+    span {
+      margin: -1rem;
+      padding: 0.5rem;
+      background-color: $background;
+    }
+  }
+
+  &__swiper {
+    display: inline-flex;
+    font-size: 0.875rem;
+    font-weight: $heading-font-weight;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+
+    span {
+      padding: 0 0.25rem;
+      text-align: center;
+    }
+  }
+}
