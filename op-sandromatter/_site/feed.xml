@@ -1,22 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="deen" /><updated>2021-12-09T00:22:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden.</subtitle><entry><title type="html">Web Development</title><link href="http://localhost:4000/cv/web-development" rel="alternate" type="text/html" title="Web Development" /><published>2021-11-14T16:18:20+01:00</published><updated>2021-11-14T16:18:20+01:00</updated><id>http://localhost:4000/cv/web-development</id><content type="html" xml:base="http://localhost:4000/cv/web-development">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
-  &lt;!-- Slider main container --&gt;
-  &lt;div class=&quot;swiper&quot;&gt;
-    &lt;!-- Additional required wrapper --&gt;
-    &lt;div class=&quot;swiper-wrapper&quot;&gt;
-      &lt;!-- Slides --&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/WLUHO9A_xik/1600x900&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/category/web&quot; /&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;!-- If we need navigation buttons --&gt;
-    &lt;div class=&quot;note__swiper&quot;&gt;
-      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
-      &lt;span&gt; | &lt;/span&gt;
-      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
-    &lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="deen" /><updated>2021-12-12T21:52:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden.</subtitle><entry><title type="html">Digital Marketing</title><link href="http://localhost:4000/cv/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/marketing</id><content type="html" xml:base="http://localhost:4000/cv/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slides --&gt;
+  &lt;div class=&quot;swiper-slide center&quot;&gt;
+    &lt;img src=&quot;/assets/img/marketing/marketing.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -34,44 +19,10 @@
     Lorem Ipsum passages, and more recently with desktop publishing software
     like Aldus PageMaker including versions of Lorem Ipsum.
   &lt;/p&gt;
-  &lt;h2 class=&quot;margin--2&quot;&gt;
-    &lt;span class=&quot;title--underline-yellow&quot;&gt;Lessons learnt&lt;/span&gt;
-  &lt;/h2&gt;
-  &lt;p&gt;
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
-    1500s, when an unknown printer took a galley of type and scrambled it to
-    make a type specimen book. It has survived not only five centuries, but also
-    the leap into electronic typesetting, remaining essentially unchanged. It
-    was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software
-    like Aldus PageMaker including versions of Lorem Ipsum.
-  &lt;/p&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="web projects" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/og-sandromatter-profile.jpg" /><media:content medium="image" url="http://localhost:4000/og-sandromatter-profile.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Data Science &amp;amp; Programming</title><link href="http://localhost:4000/cv/data-science-and-programming" rel="alternate" type="text/html" title="Data Science &amp;amp; Programming" /><published>2021-11-14T16:18:20+01:00</published><updated>2021-11-14T16:18:20+01:00</updated><id>http://localhost:4000/cv/data-science-and-programming</id><content type="html" xml:base="http://localhost:4000/cv/data-science-and-programming">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
-  &lt;!-- Slider main container --&gt;
-  &lt;div class=&quot;swiper&quot;&gt;
-    &lt;!-- Additional required wrapper --&gt;
-    &lt;div class=&quot;swiper-wrapper&quot;&gt;
-      &lt;!-- Slides --&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/WLUHO9A_xik/1600x900&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/category/web&quot; /&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;!-- If we need navigation buttons --&gt;
-    &lt;div class=&quot;note__swiper&quot;&gt;
-      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
-      &lt;span&gt; | &lt;/span&gt;
-      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&quot;content__wrapper--600&quot;&gt;
   &lt;h2 class=&quot;margin--2&quot;&gt;
-    &lt;span class=&quot;title--underline-yellow&quot;&gt;It’s about testing&lt;/span&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Personal projects&lt;/span&gt;
   &lt;/h2&gt;
   &lt;p&gt;
     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -83,41 +34,36 @@
     Lorem Ipsum passages, and more recently with desktop publishing software
     like Aldus PageMaker including versions of Lorem Ipsum.
   &lt;/p&gt;
-  &lt;h2 class=&quot;margin--2&quot;&gt;
-    &lt;span class=&quot;title--underline-yellow&quot;&gt;Lessons learnt&lt;/span&gt;
-  &lt;/h2&gt;
-  &lt;p&gt;
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
-    1500s, when an unknown printer took a galley of type and scrambled it to
-    make a type specimen book. It has survived not only five centuries, but also
-    the leap into electronic typesetting, remaining essentially unchanged. It
-    was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software
-    like Aldus PageMaker including versions of Lorem Ipsum.
-  &lt;/p&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="web projects" /><category term="jekyll" /><category term="web" /><category term="development" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/og-sandromatter-profile.jpg" /><media:content medium="image" url="http://localhost:4000/og-sandromatter-profile.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Art &amp;amp; Design</title><link href="http://localhost:4000/cv/art-and-design" rel="alternate" type="text/html" title="Art &amp;amp; Design" /><published>2021-11-14T16:18:20+01:00</published><updated>2021-11-14T16:18:20+01:00</updated><id>http://localhost:4000/cv/art-and-design</id><content type="html" xml:base="http://localhost:4000/cv/art-and-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="portfolio" /><category term="marketing" /><summary type="html">It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Personal projects Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketing/marketing.jpg" /><media:content medium="image" url="http://localhost:4000/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Photo- &amp;amp; Videography</title><link href="http://localhost:4000/cv/photo-and-videography" rel="alternate" type="text/html" title="Photo- &amp;amp; Videography" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/photo-and-videography</id><content type="html" xml:base="http://localhost:4000/cv/photo-and-videography">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
     &lt;div class=&quot;swiper-wrapper&quot;&gt;
       &lt;!-- Slides --&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;/assets/img/01_Bleistifte.jpg&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;/assets/img/02_Mandala.jpg&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;/assets/img/03_Ziffernblatt.jpg&quot; /&gt;
-      &lt;/div&gt;
       &lt;div class=&quot;swiper-slide&quot;&gt;
         &lt;img
-          src=&quot;/assets/img/06_Produktfotografie.jpg&quot;
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-1.jpg&quot;
         /&gt;
       &lt;/div&gt;
       &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;/assets/img/07_Siebdruck.jpg&quot; /&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-2.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-4.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-5.jpg&quot;
+        /&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;!-- If we need navigation buttons --&gt;
@@ -143,30 +89,117 @@
     Lorem Ipsum passages, and more recently with desktop publishing software
     like Aldus PageMaker including versions of Lorem Ipsum.
   &lt;/p&gt;
-  &lt;h2 class=&quot;margin--2&quot;&gt;
-    &lt;span class=&quot;title--underline-yellow&quot;&gt;Lessons learnt&lt;/span&gt;
-  &lt;/h2&gt;
-  &lt;p&gt;
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
-    1500s, when an unknown printer took a galley of type and scrambled it to
-    make a type specimen book. It has survived not only five centuries, but also
-    the leap into electronic typesetting, remaining essentially unchanged. It
-    was popularised in the 1960s with the release of Letraset sheets containing
-    Lorem Ipsum passages, and more recently with desktop publishing software
-    like Aldus PageMaker including versions of Lorem Ipsum.
-  &lt;/p&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="design" /><category term="jekyll" /><category term="design" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/01_Bleistifte.jpg" /><media:content medium="image" url="http://localhost:4000/01_Bleistifte.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Photo- &amp;amp; Videography</title><link href="http://localhost:4000/cv/photo-and-videography" rel="alternate" type="text/html" title="Photo- &amp;amp; Videography" /><published>2021-11-14T16:18:20+01:00</published><updated>2021-11-14T16:18:20+01:00</updated><id>http://localhost:4000/cv/photo-and-videography</id><content type="html" xml:base="http://localhost:4000/cv/photo-and-videography">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
     &lt;div class=&quot;swiper-wrapper&quot;&gt;
       &lt;!-- Slides --&gt;
       &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/WLUHO9A_xik/1600x900&quot; /&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-7.jpg&quot;
+        /&gt;
       &lt;/div&gt;
       &lt;div class=&quot;swiper-slide&quot;&gt;
-        &lt;img src=&quot;https://source.unsplash.com/category/web&quot; /&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-2.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-5.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-6.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-8.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-4.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-9.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-10.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Personal projects&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to
+    make a type specimen book. It has survived not only five centuries, but also
+    the leap into electronic typesetting, remaining essentially unchanged. It
+    was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software
+    like Aldus PageMaker including versions of Lorem Ipsum.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. back | next Personal projects Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Art &amp;amp; Design</title><link href="http://localhost:4000/cv/art-and-design" rel="alternate" type="text/html" title="Art &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>http://localhost:4000/cv/art-and-design</id><content type="html" xml:base="http://localhost:4000/cv/art-and-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/bleistifte.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/produktfotografie.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/siebdruck.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img src=&quot;/assets/img/art-and-design/buch.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img src=&quot;/assets/img/art-and-design/uhr.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/poster.jpg&quot;
+        /&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;!-- If we need navigation buttons --&gt;
@@ -205,4 +238,161 @@
     Lorem Ipsum passages, and more recently with desktop publishing software
     like Aldus PageMaker including versions of Lorem Ipsum.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="photo- and video projects" /><category term="photography" /><category term="videography" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/og-sandromatter-profile.jpg" /><media:content medium="image" url="http://localhost:4000/og-sandromatter-profile.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="portfolio" /><category term="design" /><category term="art" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/art-and-design/siebdruck.jpg" /><media:content medium="image" url="http://localhost:4000/art-and-design/siebdruck.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Data Science &amp;amp; Programming</title><link href="http://localhost:4000/cv/data-science-and-programming" rel="alternate" type="text/html" title="Data Science &amp;amp; Programming" /><published>2021-11-26T00:00:00+01:00</published><updated>2021-11-26T00:00:00+01:00</updated><id>http://localhost:4000/cv/data-science-and-coding</id><content type="html" xml:base="http://localhost:4000/cv/data-science-and-programming">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/grade_calculator.jpg&quot;
+        /&gt;      
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pinkbike_database.jpg&quot;
+        /&gt;      
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pinkbike_sentiment_analysis.jpg&quot;
+        /&gt;      
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pyfeed.jpg&quot;
+        /&gt;      
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;It’s about testing&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to
+    make a type specimen book. It has survived not only five centuries, but also
+    the leap into electronic typesetting, remaining essentially unchanged. It
+    was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software
+    like Aldus PageMaker including versions of Lorem Ipsum.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--900&quot;&gt;
+  &lt;div
+    style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 62.5%&quot;
+  &gt;
+    &lt;iframe
+      src=&quot;https://streamable.com/e/7hqchi?loop=0&quot;
+      frameborder=&quot;0&quot;
+      width=&quot;100%&quot;
+      height=&quot;100%&quot;
+      allowfullscreen
+      style=&quot;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+      &quot;
+    &gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+  &lt;div class=&quot;content__wrapper--600&quot;&gt;
+    &lt;h2 class=&quot;margin--2&quot;&gt;
+      &lt;span class=&quot;title--underline-yellow&quot;&gt;Lessons learnt&lt;/span&gt;
+    &lt;/h2&gt;
+    &lt;p&gt;
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
+      1500s, when an unknown printer took a galley of type and scrambled it to
+      make a type specimen book. It has survived not only five centuries, but
+      also the leap into electronic typesetting, remaining essentially
+      unchanged. It was popularised in the 1960s with the release of Letraset
+      sheets containing Lorem Ipsum passages, and more recently with desktop
+      publishing software like Aldus PageMaker including versions of Lorem
+      Ipsum.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Web Development</title><link href="http://localhost:4000/cv/web-development" rel="alternate" type="text/html" title="Web Development" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>http://localhost:4000/cv/web-development</id><content type="html" xml:base="http://localhost:4000/cv/web-development">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/sketch-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/sketch-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/figma.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/mobile.gif&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/website.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;It’s about testing&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to
+    make a type specimen book. It has survived not only five centuries, but also
+    the leap into electronic typesetting, remaining essentially unchanged. It
+    was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software
+    like Aldus PageMaker including versions of Lorem Ipsum.
+  &lt;/p&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Lessons learnt&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry&apos;s standard dummy text ever since the
+    1500s, when an unknown printer took a galley of type and scrambled it to
+    make a type specimen book. It has survived not only five centuries, but also
+    the leap into electronic typesetting, remaining essentially unchanged. It
+    was popularised in the 1960s with the release of Letraset sheets containing
+    Lorem Ipsum passages, and more recently with desktop publishing software
+    like Aldus PageMaker including versions of Lorem Ipsum.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">back | next It’s about testing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lessons learnt Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web-development/sketch-3.jpg" /><media:content medium="image" url="http://localhost:4000/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

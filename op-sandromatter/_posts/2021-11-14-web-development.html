@@ -2,10 +2,12 @@
 layout: portfolio-post
 title: "Web Development"
 subtitle: "My personal website – a sandbox for web development."
-image: og-sandromatter-profile.jpg
-date: 2021-11-14 16:18:20 +0100
-category: web projects
-tags: jekyll web design
+image: /web-development/sketch-3.jpg
+category: portfolio
+tags:
+  - jekyll
+  - web
+  - design
 permalink: /cv/web-development
 ---
 
@@ -16,10 +18,29 @@ permalink: /cv/web-development
     <div class="swiper-wrapper">
       <!-- Slides -->
       <div class="swiper-slide">
-        <img src="https://source.unsplash.com/WLUHO9A_xik/1600x900" />
+        <img
+          src="{{ '/assets/img/web-development/sketch-1.jpg' | relative_url }}"
+        />
       </div>
       <div class="swiper-slide">
-        <img src="https://source.unsplash.com/category/web" />
+        <img
+          src="{{ '/assets/img/web-development/sketch-3.jpg' | relative_url }}"
+        />
+      </div>
+      <div class="swiper-slide">
+        <img
+          src="{{ '/assets/img/web-development/figma.jpg' | relative_url }}"
+        />
+      </div>
+      <div class="swiper-slide">
+        <img
+          src="{{ '/assets/img/web-development/mobile.gif' | relative_url }}"
+        />
+      </div>
+      <div class="swiper-slide">
+        <img
+          src="{{ '/assets/img/web-development/website.jpg' | relative_url }}"
+        />
       </div>
     </div>
     <!-- If we need navigation buttons -->
