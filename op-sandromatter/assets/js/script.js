@@ -55,18 +55,3 @@ const swiper = new Swiper(".swiper", {
     prevEl: ".swiper-button-prev",
   },
 });
-
-// Cursor cur dot
-const cursor = curDot({
-  zIndex: -1,
-  diameter: 45,
-  borderWidth: 1.5,
-  borderColor: "#000",
-  easing: 4,
-  background: "transparent",
-});
-
-cursor.over("a", {
-  scale: 1.5,
-  borderColor: "#000",
-});
