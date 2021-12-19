@@ -1,0 +1,51 @@
+/**
+//==============================================================================
+// Post layout
+//==============================================================================
+*/
+
+// Post Header
+.post-header__wrapper {
+  min-height: 60vh;
+  max-width: 600px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+
+  @include medium-breakpoint {
+    margin: auto 10%;
+  }
+}
+
+.post-header__title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+
+  @include medium-breakpoint {
+    font-size: 3.5rem;
+  }
+
+  @include large-breakpoint {
+    font-size: 4rem;
+  }
+}
+
+.post-header__lead {
+  letter-spacing: 1.5px;
+  font-weight: $font-weight;
+  font-size: 1rem;
+
+  @include medium-breakpoint {
+    font-size: 1.25rem;
+  }
+
+  @include large-breakpoint {
+    font-size: 1.25rem;
+  }
+}
+
+.post-slider__wrapper {
+  max-width: 90%;
+  margin-left: 10%;
+  margin-bottom: 4rem;
+}

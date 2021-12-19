@@ -1,0 +1,55 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  /* Fix of Webkit flickering */
+  z-index: 1;
+}
+.swiper-vertical > .swiper-wrapper {
+  flex-direction: column;
+}
+.swiper-wrapper {
+  display: flex;
+  transition-property: transform;
+}
+.swiper-android .swiper-slide,
+.swiper-wrapper {
+  transform: translate3d(0px, 0, 0);
+}
+.swiper-pointer-events {
+  touch-action: pan-y;
+  &.swiper-vertical {
+    touch-action: pan-x;
+  }
+}
+.swiper-slide {
+  max-height: 100%;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  transition-property: transform;
+
+  img {
+    height: 60vh;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+}
+.swiper-slide-invisible-blank {
+  visibility: hidden;
+}
+/* Auto Height */
+.swiper-autoheight {
+  &,
+  .swiper-slide {
+    height: auto;
+  }
+
+  .swiper-wrapper {
+    align-items: flex-start;
+    transition-property: transform, height;
+  }
+}

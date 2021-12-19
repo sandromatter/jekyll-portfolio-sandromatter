@@ -1,0 +1,81 @@
+/**
+//==============================================================================
+// CV layout
+//==============================================================================
+*/
+
+// CV Header
+.cv-header__wrapper {
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cv-header__title {
+  font-size: 4rem;
+
+  @include medium-breakpoint {
+    font-size: 4.5rem;
+  }
+
+  @include large-breakpoint {
+    font-size: 6rem;
+  }
+}
+
+// List style
+.section__nav {
+  ul.separator {
+    width: 100%;
+    list-style: none;
+    padding: 0 40px;
+
+    li {
+      padding: 0.5em 0;
+      border-bottom: $borders;
+      line-height: 250%;
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      &.active > a {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+    display: block;
+    transition: all 50ms ease-in-out;
+
+    &:hover,
+    &:focus {
+      color: $link-hover;
+    }
+  }
+}
+
+#cv-sidebar {
+  position: absolute;
+  padding-top: 60px;
+  max-width: 80%;
+  width: 300px;
+  height: 100%;
+  top: 0;
+  left: -300px;
+  background: $background;
+  transition: 0.4s;
+
+  @include medium-breakpoint {
+    max-width: 400px;
+    left: -400px;
+  }
+}
+
+#cv-sidebar.active {
+  left: 0;
+  z-index: 500;
+}

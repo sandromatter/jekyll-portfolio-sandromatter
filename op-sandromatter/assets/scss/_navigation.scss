@@ -1,11 +1,13 @@
 /**
 //==============================================================================
-// Header styling
+// Masthead styling
 //==============================================================================
 */
 
-.header {
+.masthead {
   &__wrapper {
+    position: relative;
+    z-index: 1000;
     height: 60px;
     width: 100%;
     display: flex;
@@ -30,7 +32,7 @@
 
     &:focus {
       text-decoration: none;
-      color: $grey;
+      color: $link-hover;
     }
   }
 
