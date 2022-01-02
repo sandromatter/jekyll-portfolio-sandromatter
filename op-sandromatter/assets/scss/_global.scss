@@ -4,6 +4,17 @@
 //==============================================================================
 */
 
+::-moz-selection {
+  /* Code for Firefox */
+  color: $black;
+  background: $secondary-color;
+}
+
+::selection {
+  color: $black;
+  background: $secondary-color;
+}
+
 .link,
 a {
   color: $black;
