@@ -1,1 +1,6 @@
-User-agent: * Disallow: Disallow: /cgi-bin/ Disallow: /cv Disallow: /cv/* Sitemap: https://www.sandromatter.ch/sitemap.xml
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /cv
+Disallow: /cv/*
+Sitemap: https://www.sandromatter.ch/sitemap.xml

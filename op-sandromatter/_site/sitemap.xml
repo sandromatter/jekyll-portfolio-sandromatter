@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?> <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> <url> <loc>https://www.sandromatter.ch/cv/web-development</loc> <lastmod>2021-11-14T00:00:00+01:00</lastmod> </url> <url> <loc>https://www.sandromatter.ch/cv/data-science-and-programming</loc> <lastmod>2021-11-26T00:00:00+01:00</lastmod> </url> <url> <loc>https://www.sandromatter.ch/cv/art-and-design</loc> <lastmod>2021-12-02T00:00:00+01:00</lastmod> </url> <url> <loc>https://www.sandromatter.ch/cv/digital-marketing</loc> <lastmod>2021-12-08T00:00:00+01:00</lastmod> </url> <url> <loc>https://www.sandromatter.ch/cv/photo-and-videography</loc> <lastmod>2021-12-08T00:00:00+01:00</lastmod> </url> <url> <loc>https://www.sandromatter.ch/404</loc> </url> <url> <loc>https://www.sandromatter.ch/cv</loc> </url> <url> <loc>https://www.sandromatter.ch/en</loc> </url> <url> <loc>https://www.sandromatter.ch/</loc> </url> </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://www.sandromatter.ch/cv/web-development</loc>
+<lastmod>2021-11-14T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/cv/data-science-and-programming</loc>
+<lastmod>2021-11-26T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/cv/art-and-design</loc>
+<lastmod>2021-12-02T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/cv/digital-marketing</loc>
+<lastmod>2021-12-08T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/cv/photo-and-videography</loc>
+<lastmod>2021-12-08T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/404</loc>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/cv</loc>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/en</loc>
+</url>
+<url>
+<loc>https://www.sandromatter.ch/</loc>
+</url>
+</urlset>

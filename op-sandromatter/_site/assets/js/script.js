@@ -1,1 +1,57 @@
-function toggleSidebar(){function e(){document.getElementById("cv-sidebar").classList.toggle("active")}function t(){const e=document.getElementById("note--text");"open"===e.innerHTML?e.innerHTML="close":e.innerHTML="open"}e(),t()}window.addEventListener("DOMContentLoaded",()=>{const e=new IntersectionObserver(e=>{e.forEach(e=>{const t=e.target.getAttribute("id");e.intersectionRatio>0?document.querySelector(`nav li a[href="#${t}"]`).parentElement.classList.add("active"):document.querySelector(`nav li a[href="#${t}"]`).parentElement.classList.remove("active")})});document.querySelectorAll("section[id]").forEach(t=>{e.observe(t)})});const swiper=new Swiper(".swiper",{loop:!0,slidesPerView:"auto",spaceBetween:20,keyboard:{enabled:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});
+// Show current active section on cv page
+window.addEventListener("DOMContentLoaded", () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      const id = entry.target.getAttribute("id");
+      if (entry.intersectionRatio > 0) {
+        document
+          .querySelector(`nav li a[href="#${id}"]`)
+          .parentElement.classList.add("active");
+      } else {
+        document
+          .querySelector(`nav li a[href="#${id}"]`)
+          .parentElement.classList.remove("active");
+      }
+    });
+  });
+
+  // Track all sections that have an `id` applied
+  document.querySelectorAll("section[id]").forEach((section) => {
+    observer.observe(section);
+  });
+});
+
+// Toggle cv sidebar and add class active
+function toggleSidebar() {
+  function showSidebar() {
+    document.getElementById("cv-sidebar").classList.toggle("active");
+  }
+
+  function changeNoteText() {
+    // Change note text
+    const note = document.getElementById("note--text");
+    if (note.innerHTML === "open") {
+      note.innerHTML = "close";
+    } else {
+      note.innerHTML = "open";
+    }
+  }
+  showSidebar();
+  changeNoteText();
+}
+
+// Swiper JS
+const swiper = new Swiper(".swiper", {
+  loop: true,
+  slidesPerView: "auto",
+  spaceBetween: 20,
+  keyboard: {
+    enabled: true,
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+  },
+});
