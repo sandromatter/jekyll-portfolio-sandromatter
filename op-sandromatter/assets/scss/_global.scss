@@ -87,6 +87,7 @@ span.title {
     letter-spacing: 1.5px;
     position: absolute;
     bottom: 8%;
+    left: 0;
 
     @include medium-breakpoint {
       bottom: 0;

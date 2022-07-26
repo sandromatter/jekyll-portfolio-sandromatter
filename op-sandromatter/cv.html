@@ -1,0 +1,95 @@
+---
+permalink: /cv
+layout: page
+lang: de
+title: Portfolio.
+pagination:
+  enabled: true
+---
+<!-- 
+// Navigation
+{% include cv_sidebar_de.html %} 
+-->
+
+<div class="cv__wrapper">
+  <!-- Main content -->
+  <main role="main" class="cv__main">
+    <article>
+      <section class="content__wrapper--full cv-header__wrapper">
+        <div class="cv-header__title">
+          <h2 class="main-text">
+          Hey, ich bin Sandro Matter.<br />
+          Schön dich kennenzulernen!
+          </h2>
+        </div>
+        <div class="note__scroll">
+          <div class="note__language">
+            <a class="link" href="/cv">de</a>
+            <span> | </span>
+            <a class="link" href="/cv/en">en</a>
+          </div>
+          <span>scroll down</span>
+        </div>
+      </section>
+      <section class="content__wrapper--600 introduction" id="introduction">
+        <h2 class="margin--2">
+          <span class="title--underline-yellow">Über mich</span>
+        </h2>
+        <p>
+          Ich bin ein Multitalent und arbeite seit fast fünf Jahren in verschiedenen Marketingagenturen. Neben meinem Job fahre ich gerne Mountainbike – meine andere grosse Leidenschaft neben Marketing und dem Web.
+        </p>
+        <p>
+          Ich habe in Marketingagenturen als Desktop Publisher und Digital Marketing Spezialist gearbeitet. Zudem hatte ich Gelegenheit, Erfahrungen als Designer, Fotograf und Kameramann zu sammeln. Vor neun Jahren bin ich ins Berufsleben gestartet, als ich meine Berufslehre zum Polygraf EFZ, Fachrichtung Medienproduktion begonnen habe.
+        </p>
+        <p>
+          Als Person war ich schon immer neugierig. Meiner Meinung nach gehört ständiges Lernen und Experimentieren im Privaten genauso dazu wie im Berufsleben. Ich bin der Überzeugung, dass es jeden Tag etwas Neues und Aufregendes zu entdecken und zu lernen gibt. Ich bilde mich gerne weiter, fordere mich immer wieder selbst heraus und mag es, interessante Dinge zu erkunden. Mein Motto ist: Versuchen. Scheitern. Verbessern. Denn durch Fehler, das ständige Optimieren und Adaptieren lernt man am besten. Als Mensch bin ich ruhig und bleibe auch in stressigen Situationen fokussiert.
+        </p>
+      </section>
+      <section class="content__wrapper--600 background" id="background">
+        <h2 class="margin--2">
+          <span class="title--underline-yellow">Mein Werdegang</span>
+        </h2>
+        <p>
+          Nach der obligatorischen Schulzeit absolvierte ich eine Lehre als Polygraf bei der ZT Medien AG und arbeitete in der Druckvorstufe mit Tools wie der Adobe Creative Suite. Anschliessend wechselte ich in die Digitalagentur des Medienunternehmens, #ztplus. In den zwei Jahren bei der Agentur plante und realisierte ich Online-Marketing-Kampagnen, assistierte bei Filmproduktionen, beriet Kunden bei Webprojekten, organisierte und führte Fotoshootings aus und unterstützte bei der Einführung eines neuen Redaktionssystems. Im Jahr 2019 habe ich das Bachelorstudium «Digital Business Management» an der Fachhochschule Graubünden begonnen, das ich voraussichtlich im September 2022 abschliessen werde. Nebenbei arbeite ich Teilzeit als Digital Marketing Spezialist bei der Werbeagentur Stutz Kommunikation und als freier Mitarbeiter bei der ADi AG Agentur für Digitales.
+        </p>
+      </section>
+      <section class="work" id="work">
+        <h2 class="margin--2 content__wrapper--600">
+          <span class="title--underline-yellow">Arbeiten</span>
+        </h2>
+        <div class="content__wrapper--full">
+          <div
+            class="post-archive__grid"
+            itemscope
+            itemtype="http://schema.org/Blog"
+            data-columns
+          >
+            {% if page.lang == "de"%} 
+            {% for post in site.posts %}
+              {% if post.lang == "de" %}
+                <!-- The tag below includes the markup for each post - partials/post-archive.html -->
+                {% include post-archive.html %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          </div>
+        </div>
+      </section>
+      <section class="content__wrapper--600" id="contact">
+        <h2 class="margin--2">
+          <span class="title--underline-yellow">Kontakt</span>
+        </h2>
+        <p>
+          Ich würde mich freuen, von dir zu hören. Kontaktiere mich per E-Mail oder über LinkedIn.
+        </p>
+        <div class="contact">
+          <a href="mailto:hey@sandromatter.ch"
+            >hey@sandromatter.ch</a
+          >
+          <a href="https://www.linkedin.com/in/sandromatter" target="_blank"
+            >LinkedIn</a
+          >
+        </div>
+    </article>
+  </main>
+</div>

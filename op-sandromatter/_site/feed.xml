@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.sandromatter.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sandromatter.ch/" rel="alternate" type="text/html" hreflang="deen" /><updated>2022-02-20T14:29:08+01:00</updated><id>https://www.sandromatter.ch/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden in der Schweiz.</subtitle><author><name>Sandro Matter</name></author><entry><title type="html">Digital Marketing</title><link href="https://www.sandromatter.ch/cv/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>https://www.sandromatter.ch/cv/marketing</id><content type="html" xml:base="https://www.sandromatter.ch/cv/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="deen" /><updated>2022-07-26T23:30:58+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden in der Schweiz.</subtitle><author><name>Sandro Matter</name></author><entry xml:lang="de"><title type="html">Digital Marketing</title><link href="http://localhost:4000/cv/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-09T00:00:00+01:00</published><updated>2021-12-09T00:00:00+01:00</updated><id>http://localhost:4000/cv/marketing</id><content type="html" xml:base="http://localhost:4000/cv/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slides --&gt;
   &lt;div class=&quot;swiper-slide center&quot;&gt;
     &lt;img src=&quot;/assets/img/marketing/marketing.jpg&quot; /&gt;
@@ -7,21 +7,20 @@
 
 &lt;div class=&quot;content__wrapper--600&quot;&gt;
   &lt;h2 class=&quot;margin--2&quot;&gt;
-    &lt;span class=&quot;title--underline-yellow&quot;&gt;My daily business&lt;/span&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Mein tägliches Business&lt;/span&gt;
   &lt;/h2&gt;
   &lt;p&gt;
-    I have been working in marketing agencies for more than four years. At
-    first, I was working as a desktop publisher, often doing creative work, such
-    as layouting, designing and photography, until I started working
-    increasingly in the digital field. Currently I am working part-time as an
-    online marketing specialist besides studying for my bachelors degree, which
-    I will finish next summer. Tools like Google Ads, Facebook Business and Ads
-    Manager or Google Analytics and the Tag Manager are all part of my daily
-    work in the agency &quot;Stutz Kommunikation&quot;. There we assist SMEs to promote
-    their businesses, guide them through the digital jungle and help them to win
-    new customers.
+    Ich arbeite seit mehr als vier Jahren in Marketingagenturen. Zunächst als
+    Desktop Publisher, wobei ich mich oft Kreativarbeiten wie Layouten, Designen
+    oder der Fotografie widmete, bis ich begann, zunehmend im digitalen Bereich
+    zu arbeiten. Zuletzt arbeitete ich Teilzeit als Digital Marketing Spezialist
+    neben meinem Studium, das ich voraussichtlich im September abschliessen
+    werde. Tools wie Google Ads, den Meta Business Manager, Google Analytics und
+    der Tag Manager gehören zu meiner täglichen Arbeit in der Agentur Stutz
+    Kommunikation. In der Werbeagentur unterstützen wir regionale KMUs bei ihrem
+    Auftritt, im Web als auch offline.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="marketing" /><summary type="html">My daily business I have been working in marketing agencies for more than four years. At first, I was working as a desktop publisher, often doing creative work, such as layouting, designing and photography, until I started working increasingly in the digital field. Currently I am working part-time as an online marketing specialist besides studying for my bachelors degree, which I will finish next summer. Tools like Google Ads, Facebook Business and Ads Manager or Google Analytics and the Tag Manager are all part of my daily work in the agency &quot;Stutz Kommunikation&quot;. There we assist SMEs to promote their businesses, guide them through the digital jungle and help them to win new customers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sandromatter.ch/marketing/marketing.jpg" /><media:content medium="image" url="https://www.sandromatter.ch/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Photo- &amp;amp; Videography</title><link href="https://www.sandromatter.ch/cv/photo-and-videography" rel="alternate" type="text/html" title="Photo- &amp;amp; Videography" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>https://www.sandromatter.ch/cv/photo-and-videography</id><content type="html" xml:base="https://www.sandromatter.ch/cv/photo-and-videography">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="marketing" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketing/marketing.jpg" /><media:content medium="image" url="http://localhost:4000/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Photo- &amp;amp; Videography</title><link href="http://localhost:4000/cv/en/photo-and-videography" rel="alternate" type="text/html" title="Photo- &amp;amp; Videography" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/photo-and-videography</id><content type="html" xml:base="http://localhost:4000/cv/en/photo-and-videography">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
@@ -150,10 +149,220 @@
     My camera is always with me, especially when travelling. I love exploring
     cities with my camera and taking unique photos. My Fuji X100s from 2013 is
     still considered my best buy ever. The little cam has been everywhere with
-    me: in Australia, New York, Paris and of course in the Swiss mountains. I
-    cannot wait to take it to Canada!
+    me: in Australia, New York, Paris and of course in the Swiss mountains.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">back | next Photography on the job … Photo- and videography: Topics that I was always interested about. I learnt the basics of photography in my apprenticeship and used the knowledge later in my career. I had the chance of taking photos of clients and for the newspaper &quot;Zofinger Tagblatt&quot;. My photos got printed and published several times. During my time at the digital agency #ztplus, organising photo shoots was also part of my job. Besides taking photos behind the photo camera, I was regularly behind the video camera for live tv broadcasts in the studio of the local media outlet. back | next … and my personal projects My camera is always with me, especially when travelling. I love exploring cities with my camera and taking unique photos. My Fuji X100s from 2013 is still considered my best buy ever. The little cam has been everywhere with me: in Australia, New York, Paris and of course in the Swiss mountains. I cannot wait to take it to Canada!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sandromatter.ch/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="https://www.sandromatter.ch/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Art &amp;amp; Design</title><link href="https://www.sandromatter.ch/cv/art-and-design" rel="alternate" type="text/html" title="Art &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>https://www.sandromatter.ch/cv/art-and-design</id><content type="html" xml:base="https://www.sandromatter.ch/cv/art-and-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Digital Marketing</title><link href="http://localhost:4000/cv/en/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/marketing</id><content type="html" xml:base="http://localhost:4000/cv/en/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slides --&gt;
+  &lt;div class=&quot;swiper-slide center&quot;&gt;
+    &lt;img src=&quot;/assets/img/marketing/marketing.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;My daily business&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    I have been working in marketing agencies for more than four years. At
+    first, I was working as a desktop publisher, often doing creative work, such
+    as layouting, designing and photography, until I started working
+    increasingly in the digital field. Currently I am working part-time as an
+    online marketing specialist besides studying for my bachelors degree, which
+    I will finish next summer. Tools like Google Ads, Facebook Business and Ads
+    Manager or Google Analytics and the Tag Manager are all part of my daily
+    work in the agency &quot;Stutz Kommunikation&quot;. There we assist SMEs to promote
+    their businesses, guide them through the digital jungle and help them to win
+    new customers.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="marketing" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketing/marketing.jpg" /><media:content medium="image" url="http://localhost:4000/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Foto- &amp;amp; Videografie</title><link href="http://localhost:4000/cv/foto-und-videografie" rel="alternate" type="text/html" title="Foto- &amp;amp; Videografie" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/foto-und-videografie</id><content type="html" xml:base="http://localhost:4000/cv/foto-und-videografie">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-2.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-4.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-portfolio-5.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;zurück&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;vorwärts&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Fotografie im Beruf …&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Foto- und Videografie: Themen, die mich schon immer interessiert haben. Die
+    Grundlagen der Fotografie habe ich in meiner Berufslehre erlernt und später
+    in meinem Beruf angewendet. Ich hatte die Möglichkeit, für Agenturkunden und
+    für das Zofinger Tagblatt zu fotografieren. Meine Fotos wurden mehrmals
+    gedruckt und veröffentlicht. Während meiner Zeit bei der Digitalagentur
+    #ztplus gehörte auch die Organisation und Durchführung von Fotoshootings zu
+    meinen Aufgaben. Neben dem Fotografieren mit der Fotokamera stand ich auch
+    regelmässig als Kameramann hinter der Videokamera bei Live-TV- und
+    Studioproduktionen des lokalen Medienhauses.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-7.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-2.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-5.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-6.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-8.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-4.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-9.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/photo-and-videography/photo-10.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;zurück&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;vorwärts&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;… und persönliche Projekte&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Meine Kamera habe ich immer dabei, vor allem auf Reisen. Städte und Dörfer
+    mit der Kamera erkunden mit der Kamera, ist eine grosse Leidenschaft von
+    mir. Meine Fuji X100s aus dem Jahr 2013 ist ein ständiger Begleiter und
+    betrachte ich noch immer als einer meiner besten Käufe aller Zeiten. Die
+    kleine Kamera war schon überall mit dabei: In Australien, New York, Paris
+    und natürlich in den Schweizer Bergen.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Gestaltung &amp;amp; Design</title><link href="http://localhost:4000/cv/gestaltung-und-design" rel="alternate" type="text/html" title="Gestaltung &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>http://localhost:4000/cv/gestaltung-und-design</id><content type="html" xml:base="http://localhost:4000/cv/gestaltung-und-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/bleistifte.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/produktfotografie.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/siebdruck.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img src=&quot;/assets/img/art-and-design/buch.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img src=&quot;/assets/img/art-and-design/uhr.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/art-and-design/poster.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;zurück&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;vorwärts&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Designregeln&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Stift und Papier oder sogar Pinsel haben in der digitalen Welt eine immer
+    geringere Bedeutung. Dennoch nutze ich das Wissen über Design, Kompositionen
+    oder Typografie, das ich bei meiner Arbeit als Desktop Publisher und in
+    meiner Ausbildung zum Polygrafen erworben habe, noch immer regelmässig. Sei
+    es bei der Erstellung von Mockups, bei der Content Creation oder ganz
+    einfach bei der Auswahl einer geeigneten Schriftart.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="design" /><category term="art" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/art-and-design/siebdruck.jpg" /><media:content medium="image" url="http://localhost:4000/art-and-design/siebdruck.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Art &amp;amp; Design</title><link href="http://localhost:4000/cv/en/art-and-design" rel="alternate" type="text/html" title="Art &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/art-and-design</id><content type="html" xml:base="http://localhost:4000/cv/en/art-and-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
@@ -206,7 +415,7 @@
     projects, I still use regularly. Whether it is when creating mockups, in
     content creation or just in choosing a suitable font.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="design" /><category term="art" /><summary type="html">back | next The rules of design Pen and paper or even a brush have a decreasing importance in marketing. Nevertheless, the knowledge of design, composition or typography that I gained when I worked as a desktop publisher, often designing print and web projects, I still use regularly. Whether it is when creating mockups, in content creation or just in choosing a suitable font.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sandromatter.ch/art-and-design/siebdruck.jpg" /><media:content medium="image" url="https://www.sandromatter.ch/art-and-design/siebdruck.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Data Science &amp;amp; Programming</title><link href="https://www.sandromatter.ch/cv/data-science-and-programming" rel="alternate" type="text/html" title="Data Science &amp;amp; Programming" /><published>2021-11-26T00:00:00+01:00</published><updated>2021-11-26T00:00:00+01:00</updated><id>https://www.sandromatter.ch/cv/data-science-and-coding</id><content type="html" xml:base="https://www.sandromatter.ch/cv/data-science-and-programming">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="design" /><category term="art" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/art-and-design/siebdruck.jpg" /><media:content medium="image" url="http://localhost:4000/art-and-design/siebdruck.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Data Science &amp;amp; Programming</title><link href="http://localhost:4000/cv/en/data-science-and-programming" rel="alternate" type="text/html" title="Data Science &amp;amp; Programming" /><published>2021-11-26T00:00:00+01:00</published><updated>2021-11-26T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/data-science-and-coding</id><content type="html" xml:base="http://localhost:4000/cv/en/data-science-and-programming">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
@@ -260,7 +469,7 @@
     style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 62.5%&quot;
   &gt;
     &lt;iframe
-      src=&quot;https://streamable.com/e/7hqchi?loop=0&quot;
+      src=&quot;https://streamable.com/e/quov7x&quot;
       frameborder=&quot;0&quot;
       width=&quot;100%&quot;
       height=&quot;100%&quot;
@@ -286,7 +495,152 @@
     my &lt;a href=&quot;https://pyfeed.herokuapp.com/&quot;&gt;Pyfeed&lt;/a&gt; project, in which
     Python is used on the web with the Flask framework.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">back | next Learn from data At university, I was able to gain experience in the field of Data Science. For a Data Science project I had to use several Python libraries and frameworks such as Numpy, Seaborn, Pandas or Scrapy and save the collected data in a SQLite database before analyzing everything in Jupyter notebook with Pandas and Numpy. The conclusion: Data science is very similar to marketing. You learn from data and draw your decisions from it. Python and the web Besides the data science projects, I used Python for other kinds of projects at university: small programs as well as larger ones. My favourite is still my Pyfeed project, in which Python is used on the web with the Flask framework.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sandromatter.ch/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="https://www.sandromatter.ch/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Web Development</title><link href="https://www.sandromatter.ch/cv/web-development" rel="alternate" type="text/html" title="Web Development" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>https://www.sandromatter.ch/cv/web-development</id><content type="html" xml:base="https://www.sandromatter.ch/cv/web-development">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Data Science &amp;amp; Programmieren</title><link href="http://localhost:4000/cv/data-science-und-programmieren" rel="alternate" type="text/html" title="Data Science &amp;amp; Programmieren" /><published>2021-11-26T00:00:00+01:00</published><updated>2021-11-26T00:00:00+01:00</updated><id>http://localhost:4000/cv/data-science-und-programmieren</id><content type="html" xml:base="http://localhost:4000/cv/data-science-und-programmieren">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/grade_calculator.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pinkbike_database.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pinkbike_sentiment_analysis.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/data-science-and-programming/pyfeed.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;zurück&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;vorwärts&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Von Daten lernen&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    An der Fachhochschule konnte ich Erfahrungen auf dem Gebiet der
+    Datenwissenschaft sammeln. Für ein Data-Science-Projekt hatte ich die
+    Möglichkeit, mit verschiedenen Python-Libraries und Frameworks wie Numpy,
+    Seaborn, Pandas oder Scrapy zu expetimentieren. Für ein Projekt sammelte ich
+    über 1&apos;000&apos;000 Kommentare eines Online-Magazins. Die gesammelten Daten
+    speicherte ich in einer SQLite-Datenbank, bevor ich anschliessend alles in
+    einem Jupyter-Notebook auswertete. Die Schlussfolgerung: Data Science ist
+    sehr ähnlich wie Marketing. Man lernt aus Daten und leitet daraus seine
+    Entscheidungen ab.
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--900&quot;&gt;
+  &lt;div
+    style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 62.5%&quot;
+  &gt;
+    &lt;iframe
+      src=&quot;https://streamable.com/e/quov7x&quot;
+      frameborder=&quot;0&quot;
+      width=&quot;100%&quot;
+      height=&quot;100%&quot;
+      allowfullscreen
+      style=&quot;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+      &quot;
+    &gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Python und das Web&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    Neben meinem Data-Science-Projekt nutzte ich Python auch bei anderen
+    kleineren und grösseren Projekten während meines Studiums: Mein liebstes
+    Projekt ist nach wie vor
+    &lt;a href=&quot;https://pyfeed.herokuapp.com/&quot;&gt;Pyfeed&lt;/a&gt;. Eine Website, bei
+    welcher ich Python im Web in Verbindung mit dem Flask-Framework verwendet
+    habe.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Webentwicklung</title><link href="http://localhost:4000/cv/webentwicklung" rel="alternate" type="text/html" title="Webentwicklung" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>http://localhost:4000/cv/webentwicklung</id><content type="html" xml:base="http://localhost:4000/cv/webentwicklung">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/sketch-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/sketch-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/figma.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/mobile.gif&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/web-development/website.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img src=&quot;/assets/img/web-development/05.jpg&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;zurück&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;vorwärts&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content__wrapper--600&quot;&gt;
+  &lt;h2 class=&quot;margin--2&quot;&gt;
+    &lt;span class=&quot;title--underline-yellow&quot;&gt;Mein Sandkasten&lt;/span&gt;
+  &lt;/h2&gt;
+  &lt;p&gt;
+    In meinem Berufsleben hatte ich die Gelegenheit, verschiedene
+    Content-Management-Systeme wie Wordpress, Contao oder Drupal zu nutzen. Aber
+    auch in meiner Freizeit experimentiere ich oft mit neuen Web-Frameworks und
+    Tools (z.B. GatsbyJS, Wordpress oder Jekyll), als Entwickler und Designer.
+    Um Neues zu lernen und weil mir das Programmieren Spass bereitet. Auf
+    LinkedIn Learning habe ich erfolgreich den fast 30-stündigen Kurs «Junior
+    Wordpress Developer» erfolgreich absolviert. Ein besonderes Augenmerk
+    versuche ich bei der Entwicklung auf sauberen Code und Barrierefreiheit zu
+    legen - ein Thema, über das ich im Rahmen meines Studiums sogar schon einige
+    Arbeiten geschriebe habe.
+  &lt;/p&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web-development/sketch-3.jpg" /><media:content medium="image" url="http://localhost:4000/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Web Development</title><link href="http://localhost:4000/cv/en/web-development" rel="alternate" type="text/html" title="Web Development" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/web-development</id><content type="html" xml:base="http://localhost:4000/cv/en/web-development">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
@@ -345,4 +699,4 @@
     interest of mine during development, is clean code and accessibility - a
     topic I have written a number of papers about, in my studies.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">back | next My sandbox In my work life I had the opportunity to use various content management systems such as Wordpress, Contao or Drupal as editor. However, in my spare time I often experiment with new web frameworks and tools (such as GatsbyJS, Wordpress or Jekyll) as a developer and designer for the sake of learning, and mostly because I enjoy coding. I also successfully completed the almost 30-hour LinkedIn Learning Path &quot;Junior Wordpress Developer&quot;, where I learned the basics of Wordpress from a developer point of view. A particular interest of mine during development, is clean code and accessibility - a topic I have written a number of papers about, in my studies.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.sandromatter.ch/web-development/sketch-3.jpg" /><media:content medium="image" url="https://www.sandromatter.ch/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web-development/sketch-3.jpg" /><media:content medium="image" url="http://localhost:4000/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -1,28 +1,39 @@
 ---
-permalink: /cv
+permalink: /cv/en
 layout: page
-lang: en
-title: Résumé.
+lang: "en"
+title: Portfolio.
 pagination:
   enabled: true
 ---
-
-<!-- Navigation -->
-{% include cv_sidebar.html %}
+<!-- 
+// Navigation
+{% include cv_sidebar_en.html %} 
+-->
 
 <div class="cv__wrapper">
   <!-- Main content -->
   <main role="main" class="cv__main">
     <article>
       <section class="content__wrapper--full cv-header__wrapper">
-        <h2 class="cv-header__title">
-          Hi, I'm Sandro Matter.<br />
-          Nice to meet you!
-        </h2>
+        <div class="cv-header__title">
+          <h2 class="main-text">
+            Hi, I'm Sandro Matter.<br />
+            Nice to meet you!
+          </h2>
+        </div>
+        <div class="note__scroll">
+          <div class="note__language">
+            <a class="link" href="/cv">de</a>
+            <span> | </span>
+            <a class="link" href="/cv/en">en</a>
+          </div>
+          <span>scroll down</span>
+        </div>
       </section>
       <section class="content__wrapper--600 introduction" id="introduction">
         <h2 class="margin--2">
-          <span class="title--underline-yellow">Short introduction</span>
+          <span class="title--underline-yellow">About me</span>
         </h2>
         <p>
           I am a multi-talented person and have been working in various
@@ -78,9 +89,14 @@ pagination:
             itemtype="http://schema.org/Blog"
             data-columns
           >
+          {% if page.lang == "en"%} 
             {% for post in site.posts %}
-            <!-- The tag below includes the markup for each post - partials/post-archive.html -->
-            {% include post-archive.html %} {% endfor %}
+              {% if post.lang == "en" %}
+                <!-- The tag below includes the markup for each post - partials/post-archive.html -->
+                {% include post-archive.html %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
           </div>
         </div>
       </section>
@@ -95,7 +111,7 @@ pagination:
           <a href="mailto:hey@sandromatter.ch"
             >hey@sandromatter.ch</a
           >
-          <a href="https://www.linkedin.com/in/sandromatter" target="_blank"
+          <a href="https://www.linkedin.com/in/sandromatter/en" target="_blank"
             >LinkedIn</a
           >
         </div>
