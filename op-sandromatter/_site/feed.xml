@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="deen" /><updated>2022-07-26T23:30:58+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden in der Schweiz.</subtitle><author><name>Sandro Matter</name></author><entry xml:lang="de"><title type="html">Digital Marketing</title><link href="http://localhost:4000/cv/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-09T00:00:00+01:00</published><updated>2021-12-09T00:00:00+01:00</updated><id>http://localhost:4000/cv/marketing</id><content type="html" xml:base="http://localhost:4000/cv/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="deen"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="deen" /><updated>2025-02-16T22:26:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sandromatter.ch</title><subtitle>Online Marketing Spezialist und Student an der Fachhochschule Graubünden in der Schweiz.</subtitle><author><name>Sandro Matter</name></author><entry xml:lang="de"><title type="html">(Digital) Marketing</title><link href="http://localhost:4000/cv/marketing" rel="alternate" type="text/html" title="(Digital) Marketing" /><published>2021-12-09T00:00:00+01:00</published><updated>2021-12-09T00:00:00+01:00</updated><id>http://localhost:4000/cv/marketing</id><content type="html" xml:base="http://localhost:4000/cv/marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slides --&gt;
   &lt;div class=&quot;swiper-slide center&quot;&gt;
     &lt;img src=&quot;/assets/img/marketing/marketing.jpg&quot; /&gt;
@@ -10,16 +10,80 @@
     &lt;span class=&quot;title--underline-yellow&quot;&gt;Mein tägliches Business&lt;/span&gt;
   &lt;/h2&gt;
   &lt;p&gt;
-    Ich arbeite seit mehr als vier Jahren in Marketingagenturen. Zunächst als
-    Desktop Publisher, wobei ich mich oft Kreativarbeiten wie Layouten, Designen
-    oder der Fotografie widmete, bis ich begann, zunehmend im digitalen Bereich
-    zu arbeiten. Zuletzt arbeitete ich Teilzeit als Digital Marketing Spezialist
-    neben meinem Studium, das ich voraussichtlich im September abschliessen
-    werde. Tools wie Google Ads, den Meta Business Manager, Google Analytics und
-    der Tag Manager gehören zu meiner täglichen Arbeit in der Agentur Stutz
-    Kommunikation. In der Werbeagentur unterstützen wir regionale KMUs bei ihrem
-    Auftritt, im Web als auch offline.
+    Ich arbeite seit meinem Berufseinstieg in der Marketing- und Medienbranche.
+    Zunächst als Polygraf und Desktop Publisher, wobei ich mich oft
+    Kreativarbeiten wie dem Layouten, Designen oder der Fotografie widmete, bis
+    ich begann, zunehmend im digitalen Bereich zu arbeiten. Während meinem
+    Studium arbeitet ich Teilzeit als Digital Marketing Spezialist neben meinem
+    Studium, das ich im September 2022 erfolgreich abgeschlossen habe. Tools wie
+    Google Ads, den Meta Business Manager, Google Analytics und der Tag Manager
+    gehörten lange zu meiner täglichen Arbeit. Seit dem Frühjahr 2023
+    unterstütze ich bei der Kreativagentur
+    &lt;a href=&quot;https://www.freundlichegruesse.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;
+      &gt;Freundliche Grüsse AG&lt;/a
+    &gt;
+    die Kunden als Berater, wo ich in der Projektleitung und Strategie tätig
+    bin. Die LSA Agentur Freundliche Grüsse AG erstellt nationale
+    Multi-Channelkampagnen für nationale Brands. Während meinen zwei Jahren bei
+    der Agentur durfte ich Kampagnen für Swiss Olympic, Greenpeace, WOZ Die
+    Wochenzeitung, UBS, Migros, ImmoScout24, Rivella und viele weitere betreuen
+    und im Team umsetzen.
   &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+  &lt;!-- Slider main container --&gt;
+  &lt;div class=&quot;swiper&quot;&gt;
+    &lt;!-- Additional required wrapper --&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;!-- Slides --&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-1.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-2.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-3.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-4.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-5.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-6.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-7.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;
+        &lt;img
+          src=&quot;/assets/img/marketing/campaign-8.jpg&quot;
+        /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- If we need navigation buttons --&gt;
+    &lt;div class=&quot;note__swiper&quot;&gt;
+      &lt;a class=&quot;swiper-button-prev&quot;&gt;back&lt;/a&gt;
+      &lt;span&gt; | &lt;/span&gt;
+      &lt;a class=&quot;swiper-button-next&quot;&gt;next&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="marketing" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketing/marketing.jpg" /><media:content medium="image" url="http://localhost:4000/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Photo- &amp;amp; Videography</title><link href="http://localhost:4000/cv/en/photo-and-videography" rel="alternate" type="text/html" title="Photo- &amp;amp; Videography" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/photo-and-videography</id><content type="html" xml:base="http://localhost:4000/cv/en/photo-and-videography">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
@@ -151,7 +215,7 @@
     still considered my best buy ever. The little cam has been everywhere with
     me: in Australia, New York, Paris and of course in the Swiss mountains.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Digital Marketing</title><link href="http://localhost:4000/cv/en/digital-marketing" rel="alternate" type="text/html" title="Digital Marketing" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/marketing</id><content type="html" xml:base="http://localhost:4000/cv/en/digital-marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">(Digital) Marketing</title><link href="http://localhost:4000/cv/en/marketing" rel="alternate" type="text/html" title="(Digital) Marketing" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/marketing</id><content type="html" xml:base="http://localhost:4000/cv/en/marketing">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slides --&gt;
   &lt;div class=&quot;swiper-slide center&quot;&gt;
     &lt;img src=&quot;/assets/img/marketing/marketing.jpg&quot; /&gt;
@@ -163,16 +227,19 @@
     &lt;span class=&quot;title--underline-yellow&quot;&gt;My daily business&lt;/span&gt;
   &lt;/h2&gt;
   &lt;p&gt;
-    I have been working in marketing agencies for more than four years. At
+    I have been working in marketing agencies for more than five years. At
     first, I was working as a desktop publisher, often doing creative work, such
     as layouting, designing and photography, until I started working
-    increasingly in the digital field. Currently I am working part-time as an
-    online marketing specialist besides studying for my bachelors degree, which
-    I will finish next summer. Tools like Google Ads, Facebook Business and Ads
-    Manager or Google Analytics and the Tag Manager are all part of my daily
-    work in the agency &quot;Stutz Kommunikation&quot;. There we assist SMEs to promote
-    their businesses, guide them through the digital jungle and help them to win
-    new customers.
+    increasingly in the digital field. In my most recent job I was working
+    part-time as an online marketing specialist besides studying for my
+    bachelors degree, which I graduated from in September 2022. Tools like
+    Google Ads, Facebook Business and Ads Manager or Google Analytics and the
+    Tag Manager were part of my daily work for a long time. Since spring 2023, I
+    have been supporting clients at the award-winning creative agency
+    &lt;a href=&quot;https://www.freundlichegruesse.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;
+      &gt;Freundliche Grüsse AG&lt;/a
+    &gt;
+    as a consultant.
   &lt;/p&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="marketing" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketing/marketing.jpg" /><media:content medium="image" url="http://localhost:4000/marketing/marketing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Foto- &amp;amp; Videografie</title><link href="http://localhost:4000/cv/foto-und-videografie" rel="alternate" type="text/html" title="Foto- &amp;amp; Videografie" /><published>2021-12-08T00:00:00+01:00</published><updated>2021-12-08T00:00:00+01:00</updated><id>http://localhost:4000/cv/foto-und-videografie</id><content type="html" xml:base="http://localhost:4000/cv/foto-und-videografie">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
@@ -308,7 +375,7 @@
     kleine Kamera war schon überall mit dabei: In Australien, New York, Paris
     und natürlich in den Schweizer Bergen.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-10.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Gestaltung &amp;amp; Design</title><link href="http://localhost:4000/cv/gestaltung-und-design" rel="alternate" type="text/html" title="Gestaltung &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>http://localhost:4000/cv/gestaltung-und-design</id><content type="html" xml:base="http://localhost:4000/cv/gestaltung-und-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
+&lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="photography" /><category term="videography" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-and-videography/photo-6.jpg" /><media:content medium="image" url="http://localhost:4000/photo-and-videography/photo-6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Gestaltung &amp;amp; Design</title><link href="http://localhost:4000/cv/gestaltung-und-design" rel="alternate" type="text/html" title="Gestaltung &amp;amp; Design" /><published>2021-12-02T00:00:00+01:00</published><updated>2021-12-02T00:00:00+01:00</updated><id>http://localhost:4000/cv/gestaltung-und-design</id><content type="html" xml:base="http://localhost:4000/cv/gestaltung-und-design">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
   &lt;div class=&quot;swiper&quot;&gt;
     &lt;!-- Additional required wrapper --&gt;
@@ -492,8 +559,8 @@
   &lt;p&gt;
     Besides the data science projects, I used Python for other kinds of projects
     at university: small programs as well as larger ones. My favourite is still
-    my &lt;a href=&quot;https://pyfeed.herokuapp.com/&quot;&gt;Pyfeed&lt;/a&gt; project, in which
-    Python is used on the web with the Flask framework.
+    my &lt;a href=&quot;https://github.com/sandromatter/pyfeed&quot;&gt;Pyfeed&lt;/a&gt; project, in
+    which Python is used on the web with the Flask framework.
   &lt;/p&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Data Science &amp;amp; Programmieren</title><link href="http://localhost:4000/cv/data-science-und-programmieren" rel="alternate" type="text/html" title="Data Science &amp;amp; Programmieren" /><published>2021-11-26T00:00:00+01:00</published><updated>2021-11-26T00:00:00+01:00</updated><id>http://localhost:4000/cv/data-science-und-programmieren</id><content type="html" xml:base="http://localhost:4000/cv/data-science-und-programmieren">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
@@ -540,14 +607,14 @@
     Datenwissenschaft sammeln. Für ein Data-Science-Projekt hatte ich die
     Möglichkeit, mit verschiedenen Python-Libraries und Frameworks wie Numpy,
     Seaborn, Pandas oder Scrapy zu expetimentieren. Für ein Projekt sammelte ich
-    über 1&apos;000&apos;000 Kommentare eines Online-Magazins. Die gesammelten Daten
-    speicherte ich in einer SQLite-Datenbank, bevor ich anschliessend alles in
-    einem Jupyter-Notebook auswertete. Die Schlussfolgerung: Data Science ist
-    sehr ähnlich wie Marketing. Man lernt aus Daten und leitet daraus seine
-    Entscheidungen ab.
+    über 1'000'000 Kommentare des Online-Magazins Pinkbike. Die gesammelten
+    Daten speicherte ich in einer SQLite-Datenbank, bevor ich anschliessend
+    alles in einem Jupyter-Notebook auswertete. Die Schlussfolgerung: Data
+    Science ist sehr ähnlich wie Marketing. Man lernt aus Daten und leitet
+    daraus seine Entscheidungen ab.
   &lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;content__wrapper--900&quot;&gt;
+&lt;!-- &lt;div class=&quot;content__wrapper--900&quot;&gt;
   &lt;div
     style=&quot;width: 100%; height: 0px; position: relative; padding-bottom: 62.5%&quot;
   &gt;
@@ -567,7 +634,7 @@
       &quot;
     &gt;&lt;/iframe&gt;
   &lt;/div&gt;
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;content__wrapper--600&quot;&gt;
   &lt;h2 class=&quot;margin--2&quot;&gt;
     &lt;span class=&quot;title--underline-yellow&quot;&gt;Python und das Web&lt;/span&gt;
@@ -576,9 +643,9 @@
     Neben meinem Data-Science-Projekt nutzte ich Python auch bei anderen
     kleineren und grösseren Projekten während meines Studiums: Mein liebstes
     Projekt ist nach wie vor
-    &lt;a href=&quot;https://pyfeed.herokuapp.com/&quot;&gt;Pyfeed&lt;/a&gt;. Eine Website, bei
-    welcher ich Python im Web in Verbindung mit dem Flask-Framework verwendet
-    habe.
+    &lt;a href=&quot;https://github.com/sandromatter/pyfeed&quot;&gt;Pyfeed&lt;/a&gt;. Eine Website,
+    bei welcher ich Python im Web in Verbindung mit dem Flask-Framework
+    verwendet habe.
   &lt;/p&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="coding" /><category term="web" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" /><media:content medium="image" url="http://localhost:4000/data-science-and-programming/pyfeed.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="de"><title type="html">Webentwicklung</title><link href="http://localhost:4000/cv/webentwicklung" rel="alternate" type="text/html" title="Webentwicklung" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>http://localhost:4000/cv/webentwicklung</id><content type="html" xml:base="http://localhost:4000/cv/webentwicklung">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
@@ -630,15 +697,17 @@
   &lt;/h2&gt;
   &lt;p&gt;
     In meinem Berufsleben hatte ich die Gelegenheit, verschiedene
-    Content-Management-Systeme wie Wordpress, Contao oder Drupal zu nutzen. Aber
-    auch in meiner Freizeit experimentiere ich oft mit neuen Web-Frameworks und
-    Tools (z.B. GatsbyJS, Wordpress oder Jekyll), als Entwickler und Designer.
-    Um Neues zu lernen und weil mir das Programmieren Spass bereitet. Auf
-    LinkedIn Learning habe ich erfolgreich den fast 30-stündigen Kurs «Junior
-    Wordpress Developer» erfolgreich absolviert. Ein besonderes Augenmerk
-    versuche ich bei der Entwicklung auf sauberen Code und Barrierefreiheit zu
-    legen - ein Thema, über das ich im Rahmen meines Studiums sogar schon einige
-    Arbeiten geschriebe habe.
+    Content-Management-Systeme wie Wordpress, Contao, Silverstripe oder Drupal
+    zu nutzen. Aber auch in meiner Freizeit experimentiere ich oft mit neuen
+    Web-Frameworks und Tools (z.B. NextJS, Gatsby, Wordpress oder Jekyll), als
+    Entwickler und Designer. Um Neues zu lernen und weil mir das Programmieren
+    Spass bereitet. Auf LinkedIn Learning habe ich erfolgreich den fast
+    30-stündigen Kurs «Junior Wordpress Developer» erfolgreich absolviert. Ein
+    besonderes Augenmerk versuche ich bei der Entwicklung auf sauberen Code und
+    Barrierefreiheit zu legen - ein Thema, über das ich im Rahmen meines
+    Studiums sogar schon einige Arbeiten geschriebe habe. In meinem Berufsleben
+    kam mir der Skill bereits einige Male zu Gute zum Erstellen von
+    Kampagnenlandingpages oder kleineren Websites für Vereine oder NGOs.
   &lt;/p&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">zurück | vorwärts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web-development/sketch-3.jpg" /><media:content medium="image" url="http://localhost:4000/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Web Development</title><link href="http://localhost:4000/cv/en/web-development" rel="alternate" type="text/html" title="Web Development" /><published>2021-11-14T00:00:00+01:00</published><updated>2021-11-14T00:00:00+01:00</updated><id>http://localhost:4000/cv/en/web-development</id><content type="html" xml:base="http://localhost:4000/cv/en/web-development">&lt;div class=&quot;content__wrapper--swiper&quot;&gt;
   &lt;!-- Slider main container --&gt;
@@ -690,13 +759,14 @@
   &lt;/h2&gt;
   &lt;p&gt;
     In my work life I had the opportunity to use various content management
-    systems such as Wordpress, Contao or Drupal as editor. However, in my spare
-    time I often experiment with new web frameworks and tools (such as GatsbyJS,
-    Wordpress or Jekyll) as a developer and designer for the sake of learning,
-    and mostly because I enjoy coding. I also successfully completed the almost
-    30-hour LinkedIn Learning Path &quot;Junior Wordpress Developer&quot;, where I learned
-    the basics of Wordpress from a developer point of view. A particular
-    interest of mine during development, is clean code and accessibility - a
-    topic I have written a number of papers about, in my studies.
+    systems such as Wordpress, Contao, Silverstripe or Drupal as editor.
+    However, in my spare time I often experiment with new web frameworks and
+    tools (such as GatsbyJS, Wordpress or Jekyll) as a developer and designer
+    for the sake of learning, and mostly because I enjoy coding. I also
+    successfully completed the almost 30-hour LinkedIn Learning Path &quot;Junior
+    Wordpress Developer&quot;, where I learned the basics of Wordpress from a
+    developer point of view. A particular interest of mine during development,
+    is clean code and accessibility - a topic I have written a number of papers
+    about, in my studies.
   &lt;/p&gt;
 &lt;/div&gt;</content><author><name>Sandro Matter</name></author><category term="portfolio" /><category term="jekyll" /><category term="web" /><category term="design" /><summary type="html">back | next</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web-development/sketch-3.jpg" /><media:content medium="image" url="http://localhost:4000/web-development/sketch-3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

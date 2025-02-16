@@ -34,3 +34,4 @@ gem "webrick", "~> 1.7"
 # Additional Plugins
 gem 'jekyll-sitemap'
 gem 'jekyll-minifier'
+gem 'json', '~> 2.6.1'
